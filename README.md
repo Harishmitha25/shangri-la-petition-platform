@@ -49,11 +49,10 @@ The **Shangri-La Petition Platform (SLPP)** is a web-based application that allo
 
 2. **Set up the database**:
    - Use the `slpp_database.sql` file in the zip.
-   - ```properties
 # Database Configuration
-# Replace "localhost" with the hostname of your database server if it's hosted remotely.
-# Replace "slpp" with your database name.
-# Use your own database credentials by replacing YOUR_USERNAME and YOUR_PASSWORD.
+Replace "localhost" with the hostname of your database server if it's hosted remotely.
+Replace "slpp" with your database name.
+Use your own database credentials by replacing YOUR_USERNAME and YOUR_PASSWORD.
 spring.datasource.url=jdbc:mysql://localhost:3306/slpp?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC
 spring.datasource.username=YOUR_USERNAME
 spring.datasource.password=YOUR_PASSWORD
@@ -169,6 +168,9 @@ spring.datasource.password=YOUR_PASSWORD
 
 - The application uses JWT for authentication and Tailwind CSS for styling.
 - A self-evaluation form with screenshots is included in the submission.
+<<<<<<< HEAD
 
 
 "# shangri-la-petition-platform" 
+=======
+>>>>>>> 65f6b67f0b0b482fa9553547374da23f79b4d8b2
