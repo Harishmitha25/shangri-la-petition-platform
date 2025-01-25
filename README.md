@@ -168,9 +168,3 @@ spring.datasource.password=YOUR_PASSWORD
 
 - The application uses JWT for authentication and Tailwind CSS for styling.
 - A self-evaluation form with screenshots is included in the submission.
-<<<<<<< HEAD
-
-
-"# shangri-la-petition-platform" 
-=======
->>>>>>> 65f6b67f0b0b482fa9553547374da23f79b4d8b2
